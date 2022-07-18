@@ -1,54 +1,54 @@
 const questions=[
-//     {
-//     'que':'Javascript is an _______ language?',
-//     'a':'Object Oriented',
-//     'b':'Object Based',
-//     'c':'Procedural',
-//     'd':'none',
-//     'correct':'a'
-// },
-// {
-//     'que':'Which of the following methods is used to access HTML elements using Javascript?',
-//     'a':'getElementById',
-//     'b':'getElementByClassName',
-//     'c':'Both A and B',
-//     'd':'none',
-//     'correct':'c'
-// },
+    {
+    'que':'Javascript is an _______ language?',
+    'a':'Object Oriented',
+    'b':'Object Based',
+    'c':'Procedural',
+    'd':'none',
+    'correct':'a'
+},
+{
+    'que':'Which of the following methods is used to access HTML elements using Javascript?',
+    'a':'getElementById',
+    'b':'getElementByClassName',
+    'c':'Both A and B',
+    'd':'none',
+    'correct':'c'
+},
 
-// {
-//     'que':'How can a datatype be declared to be a constant type',
-//     'a':'const',
-//     'b':'var',
-//     'c':'let',
-//     'd':'nconstant',
-//     'correct':'a'
-// },
+{
+    'que':'How can a datatype be declared to be a constant type',
+    'a':'const',
+    'b':'var',
+    'c':'let',
+    'd':'nconstant',
+    'correct':'a'
+},
 
-// {
-//     'que':'What keyword is used to check whether a given property is valid or not?',
-//     'a':'in',
-//     'b':'is in',
-//     'c':'exists',
-//     'd':'lies',
-//     'correct':'a'
-// },
-// {
-//     'que':'When an operator’s value is NULL, the typeof returned by the unary operator is:',
-//     'a':'Boolean',
-//     'b':'Undefined',
-//     'c':'Object',
-//     'd':'Integer',
-//     'correct':'c'
-// },
-// {
-//     'que':'Which function is used to serialize an object into a JSON string in Javascript?',
-//     'a':'Stringify()',
-//     'b':'parse()',
-//     'c':'convert',
-//     'd':'none',
-//     'correct':'a'
-// },
+{
+    'que':'What keyword is used to check whether a given property is valid or not?',
+    'a':'in',
+    'b':'is in',
+    'c':'exists',
+    'd':'lies',
+    'correct':'a'
+},
+{
+    'que':'When an operator’s value is NULL, the typeof returned by the unary operator is:',
+    'a':'Boolean',
+    'b':'Undefined',
+    'c':'Object',
+    'd':'Integer',
+    'correct':'c'
+},
+{
+    'que':'Which function is used to serialize an object into a JSON string in Javascript?',
+    'a':'Stringify()',
+    'b':'parse()',
+    'c':'convert',
+    'd':'none',
+    'correct':'a'
+},
 {
     'que':'Which of the following are closures in Javascript?',
     'a':'Variables',
@@ -65,22 +65,22 @@ const questions=[
     'd':'Cassandra',
     'correct':'d'
 },
-// {
-//     'que':'Which keyword is used to declare an asynchronous function in Javascript?',
-//     'a':'async',
-//     'b':'await',
-//     'c':'setTimeOut',
-//     'd':'none',
-//     'correct':'a'
-// },
-// {
-//     'que':'Which of the following are not server-side Javascript objects?',
-//     'a':'Date',
-//     'b':'FileUpload',
-//     'c':'Function',
-//     'd':'All of the Above',
-//     'correct':'d'
-// },
+{
+    'que':'Which keyword is used to declare an asynchronous function in Javascript?',
+    'a':'async',
+    'b':'await',
+    'c':'setTimeOut',
+    'd':'none',
+    'correct':'a'
+},
+{
+    'que':'Which of the following are not server-side Javascript objects?',
+    'a':'Date',
+    'b':'FileUpload',
+    'c':'Function',
+    'd':'All of the Above',
+    'correct':'d'
+},
 
 ]
 
